@@ -1,6 +1,6 @@
 # Make Pokemon Apps 
 
-<p align="center">
+![Screenshots](public/Images/testapps.jpg)
 And it will be display information of each pokemon:
 <img src="https://drive.google.com/file/d/1nwHPikFnRj-AX2xUV-PJaGgump3sDRF0/view?usp=share_link">
 - Type
