@@ -1,8 +1,6 @@
 # Make Pokemon Apps 
 
-<p align="center">
-And it will be display information of each pokemon:
-<img src="https://drive.google.com/file/d/1nwHPikFnRj-AX2xUV-PJaGgump3sDRF0/view?usp=share_link">
+![Pokemon!] (https://scontent.fcgk22-1.fna.fbcdn.net/v/t39.30808-6/329773977_1527800021032196_2420557375461234158_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=HruFecUVt0EAX8SXO1J&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfDpjlJMHYHmd7sMIO73IcMtg-Mra8vobTbjLAqvVJv_pQ&oe=63EDFE1A)
 - Type
 - Weight
 - Height
