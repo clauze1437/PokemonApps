@@ -1,15 +1,14 @@
 # Make Pokemon Apps 
 
-![Screenshots](screenshots/screenshots.jpg)
+
 And it will be display information of each pokemon:
-<img src="https://drive.google.com/file/d/1nwHPikFnRj-AX2xUV-PJaGgump3sDRF0/view?usp=share_link">
+
 - Type
 - Weight
 - Height
 - Abilities
 - Moves
 - Stats
-</p>
 
 ## Available Scripts
 
