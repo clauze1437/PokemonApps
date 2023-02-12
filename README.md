@@ -1,13 +1,12 @@
 # Make Pokemon Apps 
 
-![Pokemon!] (https://scontent.fcgk22-1.fna.fbcdn.net/v/t39.30808-6/329773977_1527800021032196_2420557375461234158_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=HruFecUVt0EAX8SXO1J&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfDpjlJMHYHmd7sMIO73IcMtg-Mra8vobTbjLAqvVJv_pQ&oe=63EDFE1A)
+![Pokemon!] (C:\Users\Angga Kusuma\OneDrive\Dokumen\pokemon-app\screenshots\screenshots.jpg)
 - Type
 - Weight
 - Height
 - Abilities
 - Moves
 - Stats
-</p>
 
 ## Available Scripts
 
