@@ -1,14 +1,7 @@
 # Make Pokemon Apps 
 
 
-<p align="center">
-  <a href="https://pokemon-web-app.web.app/">
-    <img src="https://img.shields.io/website-up-down-brightgreen-red/https/pokemon-web-app.web.app.svg" alt="Wesite Up">
-  </a>
-	<a href="https://adhafajri.github.io/pokemon-web-app/">
-    <img src="https://img.shields.io/website-up-down-brightgreen-red/https/adhafajri.github.io/pokemon-web-app.svg" alt="Wesite Up">
-  </a>
-</p>
+![Pokemon!] (https://scontent.fcgk22-1.fna.fbcdn.net/v/t39.30808-6/329773977_1527800021032196_2420557375461234158_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=HruFecUVt0EAX8SXO1J&_nc_ht=scontent.fcgk22-1.fna&oh=00_AfDpjlJMHYHmd7sMIO73IcMtg-Mra8vobTbjLAqvVJv_pQ&oe=63EDFE1A)
 
 - Type
 - Weight
